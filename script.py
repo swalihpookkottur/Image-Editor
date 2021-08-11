@@ -4,7 +4,7 @@ class script(object):
 
 I'm a Image Editor Bot which Supports various modes
 
-For more click help....</b>"""
+For more click help.... © @diseno_Editzz  </b>"""
     HELP_MSG = """Hai, Follow these Steps..
 
 <code>🌀 Send me any Image to Edit..</code>
@@ -14,11 +14,11 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-© @TroJanzHEX"""
+© @ApkFilesStore"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Devoloper</b> @SwalihPookkottur
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+⭕️<b>Admin</b> <a href='https://t.me/swalihpookkottur'>Owner</a>"""
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Image-Editor'>Click Here</a>"""
+⭕️<b>Download Apps:</b> 👉 <a href='https://t.me/apkfilesstore'>Click Here</a>"""
